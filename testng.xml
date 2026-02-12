@@ -1,0 +1,9 @@
+//this is testng.xml
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="CapstoneProject_5 Suite">
+  <test name="Cucumber Test Execution">
+    <classes>
+      <class name="runner.TestRunner"/>
+    </classes>
+  </test>
+</suite>
